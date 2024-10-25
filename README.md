@@ -32,4 +32,4 @@ O plugin `PreencherEnderecoPorCEP` captura o valor do campo **address1_postalcod
 ### Instalação
 
 1. Clone o repositório do projeto:
-https://github.com/Emerson143/ProjetoL3/
+https://github.com/Emerson143/Projeto-L3-Dynamics
